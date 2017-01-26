@@ -13,7 +13,7 @@ EGIT_COMMIT="1f894a6951ec17d07679b4e7f7ba85681df04d93"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64 ~x86"
 
 IUSE="capmt constcw +cwc dbus +dvb +dvbscan ffmpeg hdhomerun libav imagecache inotify iptv satip +timeshift uriparser xmltv zeroconf zlib"
 
